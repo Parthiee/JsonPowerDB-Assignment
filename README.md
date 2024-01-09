@@ -11,7 +11,7 @@ The database functionality is emulated through the inclusion of the "JPDB Common
 ![Screenshot](https://github.com/Parthiee/JsonPowerDB-Assignment/assets/100670393/03cb939f-f80e-4f1b-9135-b1e0da2353a4)
 
 
-![link](https://parthiee.github.io/JsonPowerDB-Assignment/)
+https://parthiee.github.io/JsonPowerDB-Assignment/
 
 ## JSON-poweredDB (JPDB)
 
