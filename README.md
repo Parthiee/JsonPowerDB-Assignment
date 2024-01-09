@@ -10,6 +10,9 @@ The database functionality is emulated through the inclusion of the "JPDB Common
 
 ![Screenshot](https://github.com/Parthiee/JsonPowerDB-Assignment/assets/100670393/03cb939f-f80e-4f1b-9135-b1e0da2353a4)
 
+
+![link](https://parthiee.github.io/JsonPowerDB-Assignment/)
+
 ## JSON-poweredDB (JPDB)
 
 JSON-poweredDB (JPDB) is a NoSQL, cloud-native, and real-time database that simplifies data storage and retrieval processes. Developed by Login2Xplore, JPDB is designed to handle JSON data seamlessly, making it an excellent choice for applications that work with JSON formats extensively.
