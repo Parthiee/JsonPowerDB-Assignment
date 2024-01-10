@@ -6,7 +6,6 @@ Styling is implemented through a separate stylesheet (`style.css`), offering a c
 
 JavaScript functionalities, defined in an external script file (`script.js`), handle actions such as retrieving student information, saving data to a simulated database (via an external JavaScript library), updating records, and resetting the form.
 
-The database functionality is emulated through the inclusion of the "JPDB Commons" library (`jpdb-commons.js`), which simulates a simple database interaction. It allows saving and retrieving student data as if interacting with a database, enhancing the project's functionality.
 
 ![Screenshot](https://github.com/Parthiee/JsonPowerDB-Assignment/assets/100670393/03cb939f-f80e-4f1b-9135-b1e0da2353a4)
 
